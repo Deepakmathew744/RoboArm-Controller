@@ -1,8 +1,10 @@
 # RoboArm Controller
 
-## 📥 Download App
+## 📥 Download
 
-[Download APK](./app-debug.apk)
+Go to Releases and download the latest APK:
+https://github.com/Deepakmathew744/RoboArm-Controller/releases
+
 
 Android app + ESP32 Web UI controller for an ESP32-based robotic arm.
 
