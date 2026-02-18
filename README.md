@@ -2,7 +2,7 @@
 
 ## 📥 Download App
 
-[Download APK](./releases/app-debug.apk)
+[Download APK](./app-debug.apk)
 
 Android app + ESP32 Web UI controller for an ESP32-based robotic arm.
 
